@@ -27,7 +27,7 @@ You need an account before you can sign in, and there is no sign-up inside the a
 creates it for your email address. After that you can sign in with your email and password, or tap **Continue with Google**
 if your Google account uses that same email address.
 
-**The person who runs Streak can see your tasks and streaks, and can add tasks to your list.** They cannot change or delete the tasks you make. The app tells you so on the sign-in screen. If you
+**The person who runs Streak can see your tasks and streaks, and can add tasks to your list.** Each task they add is marked with their name, and they choose whether it counts toward your streak (most do not). They cannot change or delete the tasks you make. The app tells you so on the sign-in screen. If you
 would rather keep your tasks private, tap *Not now: use this device only* and Streak works fully on its own, with no account.
 
 ## Notes
